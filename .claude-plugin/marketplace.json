@@ -1,0 +1,17 @@
+{
+  "name": "arduino-claude-plugins",
+  "description": "Plugins that take repetitive engineering tasks off your hands, from board testing to release chores",
+  "owner": {
+    "name": "Roberto Gazia"
+  },
+  "plugins": [
+    {
+      "name": "arduino-test-buddy",
+      "source": {
+        "source": "github",
+        "repo": "robgee86/arduino-test-buddy"
+      },
+      "description": "Test App Bricks on a real Arduino board: the board-test skill and the arduino-test-buddy MCP server it drives"
+    }
+  ]
+}
